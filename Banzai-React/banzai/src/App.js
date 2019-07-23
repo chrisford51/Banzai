@@ -1,23 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="/home/chrisford51/Desktop/Learning/Banzai/Images/banner.big.jpg" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Banzai Performance
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Automtive Performance and Lifestyle
+        </p>
       </header>
     </div>
   );

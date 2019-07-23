@@ -1,0 +1,11 @@
+.background {
+  background-image: url(Images/s14-15.jpg);
+  background-size: cover;
+}
+
+
+
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
