@@ -3,7 +3,25 @@
   background-size: cover;
 }
 
+.storeContainer {
+  flex: auto;
+}
 
+.item1 {
+  align-content: flex-start;
+}
+
+.item2 {
+  align-content: center;
+}
+
+.item3 {
+  align-content: flex-end;
+}
+
+.itemDesc {
+  align-items: flex-start;
+}
 
 .footer {
   height: 50px;
